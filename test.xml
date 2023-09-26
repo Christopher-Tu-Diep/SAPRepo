@@ -1,0 +1,91 @@
+<app:service xmlns:app="http://www.w3.org/2007/app" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:sap="http://www.sap.com/Protocols/SAPData" xml:lang="en" xml:base="https://verona.cob.csuchico.edu:8045/odata/230/">
+<app:workspace>
+<atom:title type="text">Data</atom:title>
+<app:collection sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-version="1" href="BOM_Changes">
+<atom:title type="text">BOM_Changes</atom:title>
+<sap:member-title>BOM_Changes</sap:member-title>
+</app:collection>
+<app:collection sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-version="1" href="Carbon_Emissions">
+<atom:title type="text">Carbon_Emissions</atom:title>
+<sap:member-title>Carbon_Emissions</sap:member-title>
+</app:collection>
+<app:collection sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-version="1" href="Company_Valuation">
+<atom:title type="text">Company_Valuation</atom:title>
+<sap:member-title>Company_Valuation</sap:member-title>
+</app:collection>
+<app:collection sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-version="1" href="Financial_Postings">
+<atom:title type="text">Financial_Postings</atom:title>
+<sap:member-title>Financial_Postings</sap:member-title>
+</app:collection>
+<app:collection sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-version="1" href="Goods_Movements">
+<atom:title type="text">Goods_Movements</atom:title>
+<sap:member-title>Goods_Movements</sap:member-title>
+</app:collection>
+<app:collection sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-version="1" href="Independent_Requirements">
+<atom:title type="text">Independent_Requirements</atom:title>
+<sap:member-title>Independent_Requirements</sap:member-title>
+</app:collection>
+<app:collection sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-version="1" href="Purchase_Orders">
+<atom:title type="text">Purchase_Orders</atom:title>
+<sap:member-title>Purchase_Orders</sap:member-title>
+</app:collection>
+<app:collection sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-version="1" href="Production_Orders">
+<atom:title type="text">Production_Orders</atom:title>
+<sap:member-title>Production_Orders</sap:member-title>
+</app:collection>
+<app:collection sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-version="1" href="Inventory">
+<atom:title type="text">Inventory</atom:title>
+<sap:member-title>Inventory</sap:member-title>
+</app:collection>
+<app:collection sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-version="1" href="Current_Inventory">
+<atom:title type="text">Current_Inventory</atom:title>
+<sap:member-title>Current_Inventory</sap:member-title>
+</app:collection>
+<app:collection sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-version="1" href="Current_Inventory_KPI">
+<atom:title type="text">Current_Inventory_KPI</atom:title>
+<sap:member-title>Current_Inventory_KPI</sap:member-title>
+</app:collection>
+<app:collection sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-version="1" href="Current_Suppliers_Prices">
+<atom:title type="text">Current_Suppliers_Prices</atom:title>
+<sap:member-title>Current_Suppliers_Prices</sap:member-title>
+</app:collection>
+<app:collection sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-version="1" href="Market">
+<atom:title type="text">Market</atom:title>
+<sap:member-title>Market</sap:member-title>
+</app:collection>
+<app:collection sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-version="1" href="Marketing_Expenses">
+<atom:title type="text">Marketing_Expenses</atom:title>
+<sap:member-title>Marketing_Expenses</sap:member-title>
+</app:collection>
+<app:collection sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-version="1" href="NPS_Surveys">
+<atom:title type="text">NPS_Surveys</atom:title>
+<sap:member-title>NPS_Surveys</sap:member-title>
+</app:collection>
+<app:collection sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-version="1" href="Pricing_Conditions">
+<atom:title type="text">Pricing_Conditions</atom:title>
+<sap:member-title>Pricing_Conditions</sap:member-title>
+</app:collection>
+<app:collection sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-version="1" href="Production">
+<atom:title type="text">Production</atom:title>
+<sap:member-title>Production</sap:member-title>
+</app:collection>
+<app:collection sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-version="1" href="Current_Game_Rules">
+<atom:title type="text">Current_Game_Rules</atom:title>
+<sap:member-title>Current_Game_Rules</sap:member-title>
+</app:collection>
+<app:collection sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-version="1" href="Sales">
+<atom:title type="text">Sales</atom:title>
+<sap:member-title>Sales</sap:member-title>
+</app:collection>
+<app:collection sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-version="1" href="Suppliers_Prices">
+<atom:title type="text">Suppliers_Prices</atom:title>
+<sap:member-title>Suppliers_Prices</sap:member-title>
+</app:collection>
+<app:collection sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-version="1" href="Stock_Transfers">
+<atom:title type="text">Stock_Transfers</atom:title>
+<sap:member-title>Stock_Transfers</sap:member-title>
+</app:collection>
+</app:workspace>
+<atom:link rel="self" href="https://verona.cob.csuchico.edu:8045/odata/230/"/>
+<atom:link rel="latest-version" href="https://verona.cob.csuchico.edu:8045/odata/230/"/>
+</app:service>
