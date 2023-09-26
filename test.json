@@ -1,0 +1,97 @@
+{
+  "service": {
+    "workspace": {
+      "title": "Data",
+      "collection": [
+        {
+          "title": "BOM_Changes",
+          "member-title": "BOM_Changes"
+        },
+        {
+          "title": "Carbon_Emissions",
+          "member-title": "Carbon_Emissions"
+        },
+        {
+          "title": "Company_Valuation",
+          "member-title": "Company_Valuation"
+        },
+        {
+          "title": "Financial_Postings",
+          "member-title": "Financial_Postings"
+        },
+        {
+          "title": "Goods_Movements",
+          "member-title": "Goods_Movements"
+        },
+        {
+          "title": "Independent_Requirements",
+          "member-title": "Independent_Requirements"
+        },
+        {
+          "title": "Purchase_Orders",
+          "member-title": "Purchase_Orders"
+        },
+        {
+          "title": "Production_Orders",
+          "member-title": "Production_Orders"
+        },
+        {
+          "title": "Inventory",
+          "member-title": "Inventory"
+        },
+        {
+          "title": "Current_Inventory",
+          "member-title": "Current_Inventory"
+        },
+        {
+          "title": "Current_Inventory_KPI",
+          "member-title": "Current_Inventory_KPI"
+        },
+        {
+          "title": "Current_Suppliers_Prices",
+          "member-title": "Current_Suppliers_Prices"
+        },
+        {
+          "title": "Market",
+          "member-title": "Market"
+        },
+        {
+          "title": "Marketing_Expenses",
+          "member-title": "Marketing_Expenses"
+        },
+        {
+          "title": "NPS_Surveys",
+          "member-title": "NPS_Surveys"
+        },
+        {
+          "title": "Pricing_Conditions",
+          "member-title": "Pricing_Conditions"
+        },
+        {
+          "title": "Production",
+          "member-title": "Production"
+        },
+        {
+          "title": "Current_Game_Rules",
+          "member-title": "Current_Game_Rules"
+        },
+        {
+          "title": "Sales",
+          "member-title": "Sales"
+        },
+        {
+          "title": "Suppliers_Prices",
+          "member-title": "Suppliers_Prices"
+        },
+        {
+          "title": "Stock_Transfers",
+          "member-title": "Stock_Transfers"
+        }
+      ]
+    },
+    "link": [
+      "",
+      ""
+    ]
+  }
+}
